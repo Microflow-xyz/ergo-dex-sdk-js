@@ -1,5 +1,5 @@
 {
-  "name": "@ergolabs/ergo-dex-sdk",
+  "name": "@patternglobal/ergo-dex-sdk",
   "version": "1.9.67",
   "description": "ErgoDEX SDK",
   "main": "build/main/index.js",
@@ -130,12 +130,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ergolabs/ergo-sdk-js.git"
+    "url": "git+https://github.com/Microflow-xyz/ergo-dex-sdk-js.git"
   },
-  "author": "Ilya Oskin <ilya.arcadich@gmail.com> (https://ergoplatfrom.org/)",
+  "author": "Pattern Development Team",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/ergolabs/ergo-sdk-js/issues"
+    "url": "https://github.com/Microflow-xyz/ergo-dex-sdk-js/issues"
   },
-  "homepage": "https://github.com/ergolabs/ergo-sdk-js#readme"
+  "homepage": "https://github.com/Microflow-xyz/ergo-dex-sdk-js#readme"
 }
