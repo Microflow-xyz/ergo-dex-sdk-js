@@ -1,4 +1,4 @@
-import {AssetAmount, BoxId, PublicKey} from "@ergolabs/ergo-sdk"
+import {AssetAmount, BoxId, PublicKey} from "@patternglobal/ergo-sdk"
 
 export type TokenLock = {
   readonly boxId: BoxId

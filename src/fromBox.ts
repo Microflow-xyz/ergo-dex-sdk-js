@@ -1,4 +1,4 @@
-import {ErgoBox} from "@ergolabs/ergo-sdk"
+import {ErgoBox} from "@patternglobal/ergo-sdk"
 
 /** Used to convert `ErgoBox` to domain entity `TEntity`.
  */

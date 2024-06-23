@@ -1,5 +1,5 @@
-import {ErgoNetwork, Paging, TokenId} from "@ergolabs/ergo-sdk"
-import {BoxAssetsSearch} from "@ergolabs/ergo-sdk/build/main/network/models"
+import {ErgoNetwork, Paging, TokenId} from "@patternglobal/ergo-sdk"
+import {BoxAssetsSearch} from "@patternglobal/ergo-sdk/build/main/network/models"
 import {FromBox} from "../../fromBox"
 import {StakingBundleTemplateHash} from "../contracts/templates"
 import {Stake} from "../models/stake"

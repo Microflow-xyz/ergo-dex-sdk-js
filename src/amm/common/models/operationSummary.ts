@@ -1,4 +1,4 @@
-import {AssetAmount, AssetInfo} from "@ergolabs/ergo-sdk"
+import {AssetAmount, AssetInfo} from "@patternglobal/ergo-sdk"
 import {PoolId} from "../types"
 import {AmmOperationType} from "./ammOperation"
 

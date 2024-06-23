@@ -1,4 +1,4 @@
-import {ErgoBoxCandidate, TransactionContext, TxRequest} from "@ergolabs/ergo-sdk"
+import {ErgoBoxCandidate, TransactionContext, TxRequest} from "@patternglobal/ergo-sdk"
 import {PoolSetupParams} from "../models/poolSetupParams"
 
 export interface PoolSetupAction {

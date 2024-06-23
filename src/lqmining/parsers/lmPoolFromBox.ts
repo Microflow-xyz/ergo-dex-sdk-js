@@ -1,5 +1,5 @@
-import {AssetAmount, deserializeConstant, ErgoBox, Int64Constant, RegisterId} from "@ergolabs/ergo-sdk"
-import {Int32ArrayConstant} from "@ergolabs/ergo-sdk/build/main/entities/constant"
+import {AssetAmount, deserializeConstant, ErgoBox, Int64Constant, RegisterId} from "@patternglobal/ergo-sdk"
+import {Int32ArrayConstant} from "@patternglobal/ergo-sdk/build/main/entities/constant"
 import {FromBox} from "../../fromBox"
 import {LmPool} from "../entities/lmPool"
 

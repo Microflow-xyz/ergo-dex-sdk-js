@@ -1,5 +1,5 @@
-import {Address} from "@ergolabs/ergo-sdk"
-import {NetworkContext} from "@ergolabs/ergo-sdk/build/main/entities/networkContext"
+import {Address} from "@patternglobal/ergo-sdk"
+import {NetworkContext} from "@patternglobal/ergo-sdk/build/main/entities/networkContext"
 
 export type ActionContext = {
   readonly changeAddress: Address

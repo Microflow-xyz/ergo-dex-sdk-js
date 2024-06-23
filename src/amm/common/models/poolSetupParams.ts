@@ -1,4 +1,4 @@
-import {AssetAmount, isNative} from "@ergolabs/ergo-sdk"
+import {AssetAmount, isNative} from "@patternglobal/ergo-sdk"
 import {InvalidParams} from "../errors/invalidParams"
 import {PoolFeeMaxDecimals, PoolFeeScale} from "../constants"
 import {sqrt} from "../../../utils/sqrt"

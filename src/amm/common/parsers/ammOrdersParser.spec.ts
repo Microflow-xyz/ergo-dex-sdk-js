@@ -1,6 +1,6 @@
 import test from "ava"
-import {AssetAmount, ErgoTx, RustModule} from "@ergolabs/ergo-sdk"
-import {explorerToErgoTx} from "@ergolabs/ergo-sdk/build/main/network/models"
+import {AssetAmount, ErgoTx, RustModule} from "@patternglobal/ergo-sdk"
+import {explorerToErgoTx} from "@patternglobal/ergo-sdk/build/main/network/models"
 import {DefaultAmmOrdersParser} from "./ammOrdersParser"
 import {JSONBI} from "../../../utils/json"
 import {AmmOrderInfo} from "../models/ammOrderInfo"

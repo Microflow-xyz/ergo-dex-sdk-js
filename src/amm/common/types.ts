@@ -1,3 +1,3 @@
-import {TokenId} from "@ergolabs/ergo-sdk"
+import {TokenId} from "@patternglobal/ergo-sdk"
 
 export type PoolId = TokenId

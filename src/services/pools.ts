@@ -1,4 +1,4 @@
-import {ErgoNetwork, Paging, TokenId} from "@ergolabs/ergo-sdk"
+import {ErgoNetwork, Paging, TokenId} from "@patternglobal/ergo-sdk"
 import {PoolContracts} from "../contracts/poolContracts"
 import {FromBox} from "../fromBox"
 import {PoolId} from "../lqmining/types"

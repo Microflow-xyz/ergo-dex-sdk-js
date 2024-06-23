@@ -5,7 +5,7 @@ import {
   NativeAssetInfo,
   RustModule,
   treeTemplateFromErgoTree
-} from "@ergolabs/ergo-sdk"
+} from "@patternglobal/ergo-sdk"
 import {toHex} from "../../../utils/hex"
 import * as NativeFeeN2T from "../../nativeFee/contracts/n2tTemplates"
 import * as NativeFeeT2T from "../../nativeFee/contracts/t2tTemplates"

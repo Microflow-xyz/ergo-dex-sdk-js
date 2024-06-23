@@ -14,8 +14,8 @@ import {
   SigmaPropConstant,
   TransactionContext,
   TxAssembler
-} from "@ergolabs/ergo-sdk"
-import {SigmaRust} from "@ergolabs/ergo-sdk/build/main/utils/rustLoader"
+} from "@patternglobal/ergo-sdk"
+import {SigmaRust} from "@patternglobal/ergo-sdk/build/main/utils/rustLoader"
 import {tokenLock} from "../contracts/lockingContracts"
 import {LockParams, RelockParams, WithdrawalParams} from "../models"
 import {LockParser} from "../parsers/lockParser"

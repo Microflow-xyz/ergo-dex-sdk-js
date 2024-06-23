@@ -1,4 +1,4 @@
-import {MinBoxValue} from "@ergolabs/ergo-sdk"
+import {MinBoxValue} from "@patternglobal/ergo-sdk"
 import {MinPoolBoxValue} from "../constants"
 
 export function minValueForOrder(minerFee: bigint, uiFee: bigint, exFee: bigint): bigint {

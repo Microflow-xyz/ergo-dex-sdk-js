@@ -11,7 +11,7 @@ import {
   treeTemplateFromErgoTree,
   TxAssembler,
   TxRequest
-} from "@ergolabs/ergo-sdk"
+} from "@patternglobal/ergo-sdk"
 import * as LQ_MINING_CONTRACTS from "../../../lqmining/contracts/proxyValidators"
 import {RefundParams} from "../../../models/refundParams"
 import * as N2T_NATIVE from "../../nativeFee/contracts/n2tTemplates"
@@ -52,7 +52,7 @@ const RefundableTemplates = [
 
   T2T_NATIVE.OldDepositTemplate,
   T2T_NATIVE.OldRedeemTemplate,
-  T2T_NATIVE.OldSwapTemplate,
+  T2T_NATIVE.OldSwapTemplate
 ]
 
 export class AmmOrderRefunds implements Refunds<TxRequest> {

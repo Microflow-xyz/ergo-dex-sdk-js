@@ -9,7 +9,7 @@ import {
   Prover,
   TxAssembler,
   TxRequest
-} from "@ergolabs/ergo-sdk"
+} from "@patternglobal/ergo-sdk"
 import {prepend} from "ramda"
 import {notImplemented} from "../../utils/notImplemented"
 import * as validators from "../contracts/proxyValidators"

@@ -1,4 +1,4 @@
-import {HexString} from "@ergolabs/ergo-sdk"
+import {HexString} from "@patternglobal/ergo-sdk"
 
 export const StakingBundleTreeBlake2b256: HexString =
   "0508f3623d4b2be3bdb9737b3e65644f011167eefb830d9965205f022ceda40d"

@@ -6,7 +6,7 @@ import {
   InsufficientInputs,
   TransactionContext,
   TxRequest
-} from "@ergolabs/ergo-sdk"
+} from "@patternglobal/ergo-sdk"
 import {prepend} from "ramda"
 import {NativeExFeeType} from "../../../types"
 import {PoolSetupAction} from "../../common/interpreters/poolSetupAction"

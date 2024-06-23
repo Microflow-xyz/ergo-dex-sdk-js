@@ -1,4 +1,4 @@
-import {AugErgoBox, RustModule} from "@ergolabs/ergo-sdk"
+import {AugErgoBox, RustModule} from "@patternglobal/ergo-sdk"
 import test from "ava"
 import {mkLockParser} from "./lockParser"
 

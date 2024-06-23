@@ -1,4 +1,4 @@
-import {RustModule} from "@ergolabs/ergo-sdk"
+import {RustModule} from "@patternglobal/ergo-sdk"
 import {
   ErgoTreePrefixHex,
   SigmaFalseHex,

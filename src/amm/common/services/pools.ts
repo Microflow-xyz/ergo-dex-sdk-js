@@ -1,4 +1,4 @@
-import {ErgoNetwork} from "@ergolabs/ergo-sdk"
+import {ErgoNetwork} from "@patternglobal/ergo-sdk"
 import {makePools, Pools} from "../../../services/pools"
 import * as N2T from "../contracts/n2tPoolContracts"
 import * as T2T from "../contracts/t2tPoolContracts"

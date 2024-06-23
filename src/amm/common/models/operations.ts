@@ -1,4 +1,4 @@
-import {AssetAmount, AugErgoBox, BoxId, TxId} from "@ergolabs/ergo-sdk"
+import {AssetAmount, AugErgoBox, BoxId, TxId} from "@patternglobal/ergo-sdk"
 import {AmmOrderInfo} from "./ammOrderInfo"
 import {AmmPoolInfo} from "./ammPoolInfo"
 

@@ -1,4 +1,4 @@
-import {AssetAmount, PublicKey} from "@ergolabs/ergo-sdk"
+import {AssetAmount, PublicKey} from "@patternglobal/ergo-sdk"
 import {PoolId} from "../types"
 
 export type PoolSetupConf = {

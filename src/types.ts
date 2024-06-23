@@ -1,4 +1,4 @@
-import {TokenAmount, TokenId} from "@ergolabs/ergo-sdk"
+import {TokenAmount, TokenId} from "@patternglobal/ergo-sdk"
 
 export type NativeExFee = bigint
 export type NativeExFeePerToken = number

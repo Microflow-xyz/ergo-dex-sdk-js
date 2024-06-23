@@ -1,4 +1,4 @@
-import {Address, BoxId, PublicKey} from "@ergolabs/ergo-sdk"
+import {Address, BoxId, PublicKey} from "@patternglobal/ergo-sdk"
 
 export type LockParams = {
   readonly deadline: number

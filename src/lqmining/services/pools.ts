@@ -1,4 +1,4 @@
-import {ErgoNetwork} from "@ergolabs/ergo-sdk"
+import {ErgoNetwork} from "@patternglobal/ergo-sdk"
 import {makePools, Pools} from "../../services/pools"
 import * as PV from "../contracts/poolValidator"
 import {LmPool} from "../entities/lmPool"

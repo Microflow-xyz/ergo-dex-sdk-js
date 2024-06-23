@@ -1,4 +1,4 @@
-import {ErgoTree, HexString} from "@ergolabs/ergo-sdk"
+import {ErgoTree, HexString} from "@patternglobal/ergo-sdk"
 
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-ignore

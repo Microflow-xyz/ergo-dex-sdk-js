@@ -5,7 +5,7 @@ import {
   Int32Constant,
   RegisterId,
   SigmaPropConstant
-} from "@ergolabs/ergo-sdk"
+} from "@patternglobal/ergo-sdk"
 import {TokenLock} from "../entities"
 
 export interface LockParser {

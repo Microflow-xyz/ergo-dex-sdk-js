@@ -1,4 +1,4 @@
-import {AssetAmount} from "@ergolabs/ergo-sdk"
+import {AssetAmount} from "@patternglobal/ergo-sdk"
 import {max} from "mathjs"
 import {PoolId} from "../types"
 

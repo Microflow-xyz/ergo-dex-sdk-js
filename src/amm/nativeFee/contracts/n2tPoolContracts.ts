@@ -1,4 +1,4 @@
-import {ErgoTree, PublicKey, RustModule, TokenId} from "@ergolabs/ergo-sdk"
+import {ErgoTree, PublicKey, RustModule, TokenId} from "@patternglobal/ergo-sdk"
 import {NativeExFee, NativeExFeePerToken} from "../../../types"
 import {fromHex} from "../../../utils/hex"
 import {decimalToFractional} from "../../../utils/math"

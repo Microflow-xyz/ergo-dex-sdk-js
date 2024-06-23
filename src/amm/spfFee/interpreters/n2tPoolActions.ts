@@ -7,7 +7,7 @@ import {
   isNative,
   TransactionContext,
   TxRequest
-} from "@ergolabs/ergo-sdk"
+} from "@patternglobal/ergo-sdk"
 import {prepend} from "ramda"
 import {SpecAssetId} from "../../../constants"
 import {SpecExFeeType} from "../../../types"

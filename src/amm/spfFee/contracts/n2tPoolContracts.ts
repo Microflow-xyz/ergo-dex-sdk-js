@@ -1,4 +1,4 @@
-import {ErgoTree, PublicKey, TokenId} from "@ergolabs/ergo-sdk"
+import {ErgoTree, PublicKey, TokenId} from "@patternglobal/ergo-sdk"
 import {SpecExFeePerToken} from "../../../types"
 import {Bool, Bytes, Int, Long, ProveDlog, RedeemerBytes} from "../../../utils/contract"
 import {decimalToFractional} from "../../../utils/math"

@@ -1,4 +1,4 @@
-import {ErgoTx, Prover, TransactionContext, TxAssembler, TxRequest} from "@ergolabs/ergo-sdk"
+import {ErgoTx, Prover, TransactionContext, TxAssembler, TxRequest} from "@patternglobal/ergo-sdk"
 import {ExFeeType} from "../../../types"
 import {AmmPool} from "../entities/ammPool"
 import {DepositParams} from "../models/depositParams"

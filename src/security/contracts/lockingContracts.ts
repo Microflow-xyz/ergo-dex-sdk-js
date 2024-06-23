@@ -1,5 +1,5 @@
-import {ErgoTree} from "@ergolabs/ergo-sdk"
-import {SigmaRust} from "@ergolabs/ergo-sdk/build/main/utils/rustLoader"
+import {ErgoTree} from "@patternglobal/ergo-sdk"
+import {SigmaRust} from "@patternglobal/ergo-sdk/build/main/utils/rustLoader"
 import {TokenLockSample} from "./lockingTemplates"
 
 export function tokenLock(R: SigmaRust): ErgoTree {

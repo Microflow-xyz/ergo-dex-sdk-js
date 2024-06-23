@@ -1,4 +1,4 @@
-import {ErgoTree, HexString, RustModule} from "@ergolabs/ergo-sdk"
+import {ErgoTree, HexString, RustModule} from "@patternglobal/ergo-sdk"
 import * as crypto from "crypto-js"
 import {PoolContracts} from "../../../contracts/poolContracts"
 import {toHex} from "../../../utils/hex"

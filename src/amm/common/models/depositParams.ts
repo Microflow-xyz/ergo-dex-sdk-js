@@ -1,4 +1,4 @@
-import {AssetAmount, PublicKey} from "@ergolabs/ergo-sdk"
+import {AssetAmount, PublicKey} from "@patternglobal/ergo-sdk"
 import {ExFee, ExFeeType} from "../../../types"
 import {PoolId} from "../types"
 

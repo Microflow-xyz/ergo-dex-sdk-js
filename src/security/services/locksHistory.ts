@@ -1,4 +1,4 @@
-import {Address, ErgoNetwork, publicKeyFromAddress} from "@ergolabs/ergo-sdk"
+import {Address, ErgoNetwork, publicKeyFromAddress} from "@patternglobal/ergo-sdk"
 import {TokenLockTemplateHash} from "../contracts/lockingTemplates"
 import {TokenLock} from "../entities"
 import {LockParser} from "../parsers/lockParser"

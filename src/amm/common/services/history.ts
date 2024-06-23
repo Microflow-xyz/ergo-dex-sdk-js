@@ -1,4 +1,4 @@
-import {Address, AssetAmount, AugErgoBox, AugErgoTx, ErgoNetwork} from "@ergolabs/ergo-sdk"
+import {Address, AssetAmount, AugErgoBox, AugErgoTx, ErgoNetwork} from "@patternglobal/ergo-sdk"
 import {AmmOrderInfo} from "../models/ammOrderInfo"
 import {AmmDexOperation} from "../models/operations"
 import {AmmOrdersParser, DefaultAmmOrdersParser} from "../parsers/ammOrdersParser"

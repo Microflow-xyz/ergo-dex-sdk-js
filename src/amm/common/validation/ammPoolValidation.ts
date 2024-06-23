@@ -1,4 +1,4 @@
-import {ErgoNetwork, isNative} from "@ergolabs/ergo-sdk"
+import {ErgoNetwork, isNative} from "@patternglobal/ergo-sdk"
 import {sqrt} from "../../../utils/sqrt"
 import {OK, PoolValidation, ValidationResult} from "../../../validation/poolValidation"
 import {BurnLP, EmissionLP} from "../constants"

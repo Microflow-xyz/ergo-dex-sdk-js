@@ -1,4 +1,4 @@
-import {AssetAmount} from "@ergolabs/ergo-sdk"
+import {AssetAmount} from "@patternglobal/ergo-sdk"
 import test from "ava"
 import {LmPool} from "./lmPool"
 

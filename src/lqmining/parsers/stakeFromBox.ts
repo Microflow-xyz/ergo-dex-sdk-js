@@ -1,5 +1,5 @@
-import {AssetAmount, deserializeConstant, ErgoBox, RegisterId, toHex} from "@ergolabs/ergo-sdk"
-import {ByteaConstant} from "@ergolabs/ergo-sdk/build/main/entities/constant"
+import {AssetAmount, deserializeConstant, ErgoBox, RegisterId, toHex} from "@patternglobal/ergo-sdk"
+import {ByteaConstant} from "@patternglobal/ergo-sdk/build/main/entities/constant"
 import {FromBox} from "../../fromBox"
 import {Stake} from "../models/stake"
 

@@ -1,4 +1,4 @@
-import {RustModule} from "@ergolabs/ergo-sdk"
+import {RustModule} from "@patternglobal/ergo-sdk"
 import test from "ava"
 import {decimalToFractional} from "../../../utils/math"
 import * as T2T from "./t2tPoolContracts"

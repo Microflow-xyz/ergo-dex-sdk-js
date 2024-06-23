@@ -12,7 +12,7 @@ import {
   registers,
   TransactionContext,
   TxRequest
-} from "@ergolabs/ergo-sdk"
+} from "@patternglobal/ergo-sdk"
 import {prepend} from "ramda"
 import {stringToBytea} from "../../../utils/utf8"
 import {minValueForSetup} from "./mins"

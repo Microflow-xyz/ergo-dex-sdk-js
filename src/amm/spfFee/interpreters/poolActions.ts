@@ -1,4 +1,4 @@
-import {Address, ErgoTx, isNative, Prover, TxAssembler, TxRequest} from "@ergolabs/ergo-sdk"
+import {Address, ErgoTx, isNative, Prover, TxAssembler, TxRequest} from "@patternglobal/ergo-sdk"
 import {SpecExFeeType} from "../../../types"
 import {N2tPoolSetupAction} from "../../common/interpreters/n2tPoolSetupAction"
 import {PoolActionsSelector, wrapPoolActions} from "../../common/interpreters/poolActions"
